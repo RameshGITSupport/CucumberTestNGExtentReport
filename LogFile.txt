@@ -1,0 +1,3 @@
+18 Apr 2021 23:02:35  INFO logger - Log Testing
+18 Apr 2021 23:06:29  INFO logger - Log Testing
+18 Apr 2021 23:15:25  INFO logger - Log Testing
